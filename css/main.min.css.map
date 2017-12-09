@@ -1,0 +1,1 @@
+{"version":3,"sources":["theme/_home.scss"],"names":[],"mappings":"AAAA,MACE,WAAY,QAEZ,MAAO,MACP,OAAO","file":"main.min.css","sourcesContent":["#body{\r\n  background: rebeccapurple;\r\n\r\n  width: 150px;\r\n  height:150px;\r\n}"]}
